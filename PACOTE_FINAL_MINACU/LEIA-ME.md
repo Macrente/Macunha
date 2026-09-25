@@ -1,0 +1,19 @@
+# Pacote final — Inteligência Contábil e Gestão Fiscal — Minaçu/GO
+
+Este pacote reúne, em um único local, as versões V2 (mais recentes e coerentes entre si) do ETP e do TR, além dos relatórios de apoio que documentam as revisões aplicadas. Todos os arquivos aqui são **cópias**; os originais permanecem em `/home/user/Macunha`.
+
+## Arquivos
+
+1. **`ETP_Inteligencia_Contabil_Minacu_REVISADO_V2.docx`** — ETP revisado V2, documento controlador do escopo (objeto, justificativa, requisitos, quantitativos, obrigações e pendências da contratação).
+2. **`ETP_Inteligencia_Contabil_Minacu_REVISADO_V2.pdf`** — mesma versão do ETP V2, em PDF, para leitura e conferência visual.
+3. **`TR_Inteligencia_Contabil_Minacu_REVISADO_V2.docx`** — TR revisado V2, coerente com o ETP V2, com a referência cruzada do item 5.1.1.3 corrigida (aponta corretamente para a seção 5.4 — Aplicativo móvel).
+4. **`TR_Inteligencia_Contabil_Minacu_REVISADO_V2.pdf`** — mesma versão do TR V2, em PDF, para leitura e conferência visual.
+5. **`RELATORIO_REVISAO_ETP_MINACU_V2.md`** — relatório de apoio detalhando as microcorreções aplicadas ao ETP V2 e a verificação de coerência com o TR.
+6. **`RELATORIO_REVISAO_TR_MINACU_V2.md`** — relatório de apoio detalhando a estrutura, a POC, os quantitativos, a matriz de coerência ETP×TR do TR V2, a correção do item 5.1.1.3 e a auditoria completa de referências internas ("seção"/"item"/"subitem") do documento.
+
+## Pendências críticas já conhecidas (reafirmadas, não resolvidas neste pacote)
+
+- **(a) Estimativa de valor / pesquisa de preços ainda não incorporada.** Tanto o ETP V2 quanto o TR V2 registram explicitamente, em seus próprios textos, que a estimativa de valor da contratação depende de pesquisa de preços ainda não realizada. **Nenhuma pesquisa de preços foi feita e nenhum valor foi inventado** em nenhuma das revisões que geraram este pacote. Por isso, **ambos os documentos permanecem em condição de minuta** e não devem ser considerados aptos à fase externa da licitação (publicação de edital) até que essa pendência seja suprida pela Administração.
+- **(b) Campos marcados como `[INFORMAÇÃO A PREENCHER]`.** Ambos os documentos contêm campos administrativos deliberadamente deixados em aberto, por não terem sido informados e por não caber a esta revisão presumi-los. No TR V2, constam pelo menos nos itens: 7.1.2 (preço unitário do usuário simultâneo adicional), 13.1 (processo de pesquisa de preços) e 17 (dotação orçamentária, fonte de recursos e programa/ação). O ETP V2 possui pendência equivalente na seção de estimativa preliminar do valor da contratação (item 6). Consulte os relatórios de apoio (arquivos 5 e 6 acima) para o detalhamento completo de cada campo pendente.
+
+Nenhum valor, secretaria requisitante, processo administrativo, servidor responsável ou dado não comprovado foi inventado em qualquer etapa das revisões que originaram este pacote.
